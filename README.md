@@ -43,7 +43,7 @@ Parar Trading
 
 `~$ CTRL + C`
 
-<a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 <img alt="Keybase XLM" src="https://img.shields.io/keybase/btc/fsoarez">
  <img alt="Keybase XLM" src="https://img.shields.io/keybase/xlm/fsoarez">
